@@ -26,9 +26,19 @@ img{
     margin-bottom: 20px;
     margin-top: 0px;
     margin-left: 0px;
+    border: 2px grey;
 }
 
+#tudtad{
+    width: 450px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    margin-top: 0px;
+    margin-right: 0px;
+    min-width: 200px;
+    min-height: 200px;
 
+}
 
 
 
