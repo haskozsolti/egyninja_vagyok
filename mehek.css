@@ -6,13 +6,27 @@ body{
     margin-right: 20px;
 }
 h1{
-    
+    margin: auto;
 }
 
 
+#bee:hover{
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    margin-left: 0px;
+    margin-top: 0px;
+    background-image: url(bee0.gif);
+    min-width: 130px;
+    min-height: 130px;
+}
 
-
-
+img{
+    margin-right: 20px;
+    margin-bottom: 20px;
+    margin-top: 0px;
+    margin-left: 0px;
+}
 
 
 
